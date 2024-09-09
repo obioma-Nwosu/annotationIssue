@@ -1,0 +1,21 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% + 64px);
+  height: 100%;
+  margin: -16px -32px 0 -32px;
+}
+app-webviewer {
+  flex: 1;
+  margin: 8px;
+  -webkit-box-shadow: 1px 1px 10px #999;
+  box-shadow: 1px 1px 10px #999;
+}
+.viewer {
+  width: 100%;
+  height: calc(100vh - 48px);
+}
+.modal-body {
+  max-height: 75vh;
+  overflow-y: auto;
+}

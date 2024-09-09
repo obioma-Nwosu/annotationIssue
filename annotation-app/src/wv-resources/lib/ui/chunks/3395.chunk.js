@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebviewer_ui=self.webpackChunkwebviewer_ui||[]).push([[3395],{13395:(e,t,n)=>{n.d(t,{A:()=>o});var i=n(28854);const o=function(e){var t=window.Core.Annotations.FreeTextAnnotation;if(e instanceof t&&e.getAutoSizeType()!==t.AutoSizeTypes.NONE){var n=i.A.getDocument(),o=e.PageNumber,a=n.getPageInfo(o),u=n.getPageMatrix(o),r=n.getPageRotation(o);e.fitText(a,u,r)}}}}]);
+//# sourceMappingURL=3395.chunk.js.map

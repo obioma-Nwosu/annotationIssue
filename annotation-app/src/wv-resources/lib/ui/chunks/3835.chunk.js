@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwebviewer_ui=self.webpackChunkwebviewer_ui||[]).push([[3835],{13835:(e,t,n)=>{n.d(t,{A:()=>a});var i=n(28854);const a=function(e,t,n){var a=e,o=a.getCalculatedFontSize();n?a.FontSize=o:a.switchToAutoFontSize(),t(!n),i.A.getAnnotationManager().redrawAnnotation(a)}}}]);
+//# sourceMappingURL=3835.chunk.js.map

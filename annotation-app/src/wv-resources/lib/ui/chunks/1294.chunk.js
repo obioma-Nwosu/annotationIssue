@@ -1,0 +1,2 @@
+(self.webpackChunkwebviewer_ui=self.webpackChunkwebviewer_ui||[]).push([[1294],{3446:(r,e,n)=>{"use strict";var u=n(51605),t=n(30200),i=n(24497),f=n(93524),c="ArrayBuffer",o=i[c];u({global:!0,constructor:!0,forced:t[c]!==o},{ArrayBuffer:o}),f(c)},15679:(r,e,n)=>{n(43106)("Int8",(function(r){return function(e,n,u){return r(this,e,n,u)}}))},9513:(r,e,n)=>{n(43106)("Uint8",(function(r){return function(e,n,u){return r(this,e,n,u)}}),!0)}}]);
+//# sourceMappingURL=1294.chunk.js.map
